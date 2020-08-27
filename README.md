@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Category_Home
 
 [![CI Status](https://img.shields.io/travis/33cun/Category_Home.svg?style=flat)](https://travis-ci.org/33cun/Category_Home)
@@ -27,3 +28,6 @@ pod 'Category_Home'
 ## License
 
 Category_Home is available under the MIT license. See the LICENSE file for more info.
+=======
+# Category_Home
+>>>>>>> 736126cd9abab8717d982ad9154cbea40c95123c
