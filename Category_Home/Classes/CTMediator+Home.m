@@ -12,7 +12,7 @@ NSString * const kCTMediatorActionRootViewController = @"rootViewController";
 
 @implementation CTMediator (Home)
 
-- (UIViewController *)CTMediator_viewControllerForDetail {
+- (UIViewController *)CTMediator_viewControllerForHome {
     UIViewController *viewController = [self performTarget:kCTMediatorTargetHome
                                                     action:kCTMediatorActionRootViewController
                                                     params:@{@"key" : @"value"}

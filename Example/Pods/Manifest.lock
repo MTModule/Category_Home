@@ -1,5 +1,5 @@
 PODS:
-  - Category_Home (0.1.1):
+  - Category_Home (0.1.2):
     - CTMediator
   - CTMediator (44)
 
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Category_Home: a07f13a8dd537b30e800b312711d7627f6969ce7
+  Category_Home: 3e088c733cf5c5e63221a71327aa5584bf5db83e
   CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
 
 PODFILE CHECKSUM: 6dbc7061a5c0c59f9bfef01cf5f5a09a1690fa59
